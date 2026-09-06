@@ -4,3 +4,5 @@
 - 🌱 I’m currently studying Messaging, Kotlin, and System Design.
 - 🧠 I’m particularly interested in Haskell and exploring FP more deeply.
 - 📦 Current stack: Kotlin, TypeScript, Node.js, NestJS, SQL, NoSQL.
+
+Most repositories here are experiments ar/or learning projects.
