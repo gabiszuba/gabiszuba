@@ -3,6 +3,6 @@
 - 🔭 By day: developer at a FinTech company.
 - 🌱 I’m currently studying Messaging, Kotlin, and System Design.
 - 🧠 I’m particularly interested in Haskell and exploring FP more deeply.
-- 📦 Current stack: Kotlin, TypeScript, Node.js, NestJS, SQL, NoSQL.
+- 📦 Current stack: Kotlin, TypeScript, Next, NestJS, SQL, NoSQL.
 
 Most repositories here are experiments ar/or learning projects.
